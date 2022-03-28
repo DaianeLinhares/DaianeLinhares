@@ -1,4 +1,6 @@
-### 
+## Olá, sou a Daia!! 😁
+### <p align="center"> Bem vindo(a) ao meu perfil 👋</p>
+
 
 <div align="center">
   <a href="https://github.com/DaianeLinhares">
